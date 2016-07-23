@@ -1,0 +1,40 @@
+[
+    {
+        "caption": "-",
+        "id": "separator"
+    },
+    {
+        "caption": "Lorem Language",
+        "children":
+        [
+            {
+                "command": "lorem_lang_eng",
+                "caption": "ENG"
+            },
+            {
+                "command": "lorem_lang_deu",
+                "caption": "DEU"
+            },
+            {
+                "command": "lorem_lang_ind",
+                "caption": "IND"
+            },
+            {
+                "command": "lorem_lang_ita",
+                "caption": "ITA"
+            },
+            {
+                "command": "lorem_lang_rus",
+                "caption": "RUS"
+            },
+            {
+                "command": "lorem_lang_zho",
+                "caption": "ZHO"
+            }
+        ],
+    },
+	{
+        "caption": "-",
+        "id": "separator"
+    }
+]
