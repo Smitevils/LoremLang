@@ -8,6 +8,10 @@
         "children":
         [
             {
+                "command": "translate",
+                "caption": "Translate to zho"
+            },
+            {
                 "command": "lorem_lang_eng",
                 "caption": "ENG"
             },
